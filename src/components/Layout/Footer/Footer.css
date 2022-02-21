@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+.down{
+    color: rgb(255, 255, 255);
+}
+
+.banner{
+    background-color: rgb(29, 13, 173);
+    width: 200rem;
+    height: 5.6rem;
+    display: flex;
+    justify-content: center;
+}

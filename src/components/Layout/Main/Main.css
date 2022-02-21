@@ -1,0 +1,38 @@
+.login{
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+    background-color: rgb(135, 8, 173);
+    height: 30rem;
+    border-radius: 10px;
+    width: 25rem;
+    text-align: center;
+    margin-bottom: 15rem;
+}
+
+.dateUser{
+    width: 15rem;
+    height: 2rem;
+}
+
+Main{
+    display: flex;
+    justify-content: center;
+}
+
+
+.subtitle{
+    padding-top: 2rem;
+}
+
+.btn_enter{
+    margin-top: 3rem;
+    background-color: rgb(11, 23, 185);
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 8rem;
+    height: 2rem;
+    cursor: pointer;
+}
